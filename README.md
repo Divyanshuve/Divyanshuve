@@ -1,6 +1,6 @@
 Hi, I’m @Divyanshu Verma
 I’m interested in Data Analyst Role
-I’m currently learning Excel, Power BI, SQL, PYTHON
+I’m currently learning Excel, Power BI, SQL
 I’m looking to collaborate on PROJECTS
 How to reach me MY Mail id: Divyansuverma.6391@gmail.com
 
